@@ -1,6 +1,8 @@
 # Dio-Projeto-de-Banco-de-Dados-E-COMMERCE
 Projeto Conceitual de Banco de Dados – E-COMMERCE
 
+Primeiro repositório
+
 
 Objetivo:
 Refine o modelo apresentado acrescentando os seguintes pontos:
